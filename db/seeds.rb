@@ -132,5 +132,12 @@ cat3.products.create!({
   price: 2_483.75
 })
 
+p1 = Product.find_or_create_by! name: 'Women\'s Zebra pants'
+
+p1.reviews.create!({
+  user_id: 1,
+  description: 'I wore these pants on a safari, and I was attacked by a lion',
+  rating: 4
+})
 
 puts "DONE!"
