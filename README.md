@@ -4,7 +4,9 @@ A mini e-commerce application built with Rails 4.2 for purposes of buying items 
 
 ## Final Product
 
-!["Screenshot of Home Page"]()
+!["Screenshot of Home Page"](https://github.com/njlatcham/jungle-rails/blob/master/lib/assets/Screen%20Shot%202018-08-20%20at%209.30.35%20AM.png)
+!["Screenshot of Cart"](https://github.com/njlatcham/jungle-rails/blob/master/lib/assets/Screen%20Shot%202018-08-20%20at%209.30.58%20AM.png)
+!["Screenshot of Order"](https://github.com/njlatcham/jungle-rails/blob/master/lib/assets/Screen%20Shot%202018-08-20%20at%209.31.32%20AM.png)
 
 ## Setup
 
@@ -29,20 +31,3 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 * Rails 4.2 [Rails Guide](http://guides.rubyonrails.org/v4.2/)
 * PostgreSQL 9.x
 * Stripe
-
-
-<!-- ### Getting Started
-
-1. Install dependencies using the `npm install` command.
-2. Start the web server using the `npm start` command. The app will be served at <http://0.0.0.0:3000/>.
-3. Go to <http://0.0.0.0:3000/> in your browser.
-4. Go to the username input in the bottom left corner and change your username.
-5. Fill in the message input and hit ENTER to display the message to everyone.
-
-### Dependencies
-
-* React
-* Webpack
-* UUID
-* [babel-loader](https://github.com/babel/babel-loader)
-* [webpack-dev-server](https://github.com/webpack/webpack-dev-server) -->
