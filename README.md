@@ -1,7 +1,10 @@
 # Jungle
 
-A mini e-commerce application built with Rails 4.2 for purposes of teaching Rails by example.
+A mini e-commerce application built with Rails 4.2 for purposes of buying items online.
 
+## Final Product
+
+!["Screenshot of Home Page"]()
 
 ## Setup
 
@@ -26,3 +29,20 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 * Rails 4.2 [Rails Guide](http://guides.rubyonrails.org/v4.2/)
 * PostgreSQL 9.x
 * Stripe
+
+
+<!-- ### Getting Started
+
+1. Install dependencies using the `npm install` command.
+2. Start the web server using the `npm start` command. The app will be served at <http://0.0.0.0:3000/>.
+3. Go to <http://0.0.0.0:3000/> in your browser.
+4. Go to the username input in the bottom left corner and change your username.
+5. Fill in the message input and hit ENTER to display the message to everyone.
+
+### Dependencies
+
+* React
+* Webpack
+* UUID
+* [babel-loader](https://github.com/babel/babel-loader)
+* [webpack-dev-server](https://github.com/webpack/webpack-dev-server) -->
